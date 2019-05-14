@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "JLM | Mechanical Engineering Student"
 title_separator          : "-"
 name                     : "Jordan Miller"
-description              : "Personal Links"
+description              : ""
 url                      : www.jordanmiller.co # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : jordanleighmiller/jordanleighmiller.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Jordan Miller"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a senior at the University of Texas at Arlington and will be graduating with an honors B.S. in Mechanical Engineering and a minor in Aerospace Engineering."
+  bio              : ""
   location         : # "--"
   email            :
   links:
