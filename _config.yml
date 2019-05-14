@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Jordan Miller"
-  avatar           : "C:\Users\Jordan\Pictures\2018\IMG_1513.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a senior at the University of Texas at Arlington and will be graduating with an honors B.S. in Mechanical Engineering and a minor in Aerospace Engineering."
   location         : # "--"
   email            :
